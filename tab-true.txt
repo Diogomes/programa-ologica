@@ -1,0 +1,34 @@
+todos os valores possíveis combinados
+
+1. Para uma proposição
+
+2¹ = 2  p*
+        V
+        F
+*p = proposição
+
+2² = 4  p   q
+        V   V 
+        V   F
+        F   V 
+        F   F
+
+
+2³ = 8  p   q   r
+        V   V   V 
+        V   V   F
+        V   F   V 
+        V   F   F
+        F   V   V 
+        F   V   F
+        F   F   V   
+        F   F   F
+
+O número de linhas na tabela será definido pela combinação
+de 2*n onde n é a quantidade de proposições simples a serem analisadas.
+
+2. Negação: ~p.
+
+1.1: A lua é um satélite da Terra.
+1.2: A lua não é um satélite da Terra.
+
